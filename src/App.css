@@ -1,0 +1,9 @@
+.operations {
+  margin-top: 20px;
+  display: flex;
+  column-gap: 12px;
+}
+
+.operations button {
+  cursor: pointer;
+}
